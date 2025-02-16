@@ -5,7 +5,7 @@ A collection of random utility scripts for various tasks. Each script has its ow
 ## 📂 Scripts
 
 ### 🎵 Media
-- **[YouTube Music Downloader](yt-downloader/README.md)** – Download music from YouTube using `yt-dlp` and `ffmpeg`, with metadata and thumbnails embedded. Supports Playlists. Made in Python
+- **[YouTube Music Downloader](yt-downloader/)** – Download music from YouTube using `yt-dlp` and `ffmpeg`, with metadata and thumbnails embedded. Supports Playlists. Made in Python
 
 
 ## 📜 License
